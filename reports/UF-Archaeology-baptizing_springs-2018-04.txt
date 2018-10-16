@@ -1,0 +1,54 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 2826
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 8
+	Country: South Africa ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-29 ; Times: 12
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1 isfossil:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isarch:1" ; Times: 1
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 13
+	Query: "archaeology weight" ; Times: 1
+	Query: "isarch:1" ; Times: 8
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1 isarch:1" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen isarch:1" ; Times: 1
+	Query: "institutioncode:uf-archaeology" ; Times: 1
+	Query: "baptizing springs" ; Times: 2
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d isarch:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1359 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+
+
+End of report.
