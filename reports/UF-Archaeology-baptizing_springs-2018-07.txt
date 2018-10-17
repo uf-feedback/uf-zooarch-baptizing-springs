@@ -1,0 +1,42 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 701
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UF isarch:1" ; Times: 1
+	Query: "b08b5f3b-bd4f-4a50-888b-27a63ba05c1c" ; Times: 3
+	Query: "d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 1
+	Query: "UF Baptizing Springs" ; Times: 1
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 977 download events in this period)
+Total number of records downloaded: 452
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 1
+
+
+End of report.
