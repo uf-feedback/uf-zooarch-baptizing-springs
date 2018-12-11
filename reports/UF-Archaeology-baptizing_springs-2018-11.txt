@@ -1,0 +1,58 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cuneata genus:rangia mappable:1" ; Times: 1
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1719 download events in this period)
+Total number of records downloaded: 521
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-15 ; Times: 3
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-11 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "Procyon lotor" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "procyon" ; Times: 3
+
+
+End of report.
