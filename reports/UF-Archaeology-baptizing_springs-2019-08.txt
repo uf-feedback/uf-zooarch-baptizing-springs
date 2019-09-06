@@ -1,0 +1,37 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 204
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Baptizing Springs" ; Times: 2
+	Query: "Bos taurus" ; Times: 1
+	Query: "Bos taurus L." ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
