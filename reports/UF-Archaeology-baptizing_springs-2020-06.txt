@@ -1,0 +1,33 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 60
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Bos taurus" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 474 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
