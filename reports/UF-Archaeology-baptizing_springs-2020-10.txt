@@ -1,0 +1,55 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 7
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa" ; Times: 3
+	Query: "gbifdatasetid:d8fd5432-0cb3-4354-8be8-874f2c047f8d" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 1
+	Query: "Bos taurus" ; Times: 4
+	Query: "scientificname:Rangia cuneata" ; Times: 1
+	Query: "mappable:1 scientificname:Gopherus polyphemus" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1521 download events in this period)
+Total number of records downloaded: 154
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia institutioncode:UF" ; Times: 1
+	Query: "vntype:specimen genus:Sciurus institutioncode:UF" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
