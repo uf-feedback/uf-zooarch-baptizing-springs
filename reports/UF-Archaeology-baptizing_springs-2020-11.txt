@@ -1,0 +1,48 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 271
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 8
+	Date: 2020-11-10 ; Times: 7
+	Date: 2020-11-26 ; Times: 2
+	Date: 2020-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "soil ph" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "Bos taurus" ; Times: 4
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 842 download events in this period)
+Total number of records downloaded: 111
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+
+
+End of report.
