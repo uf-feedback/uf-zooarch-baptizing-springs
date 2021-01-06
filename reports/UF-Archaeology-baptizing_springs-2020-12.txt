@@ -1,0 +1,44 @@
+Report for Institution Code UF-Archaeology, Resource baptizing_springs
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "specificepithet:taurus genus:bos haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 705 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:sciuridae" ; Times: 1
+
+
+End of report.
